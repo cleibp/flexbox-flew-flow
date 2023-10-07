@@ -1,7 +1,7 @@
-<h1 align="center"> 🚀 HTML5 | Accordion </h1>
+<h1 align="center"> 🚀 Flexbox | Flex-flow </h1>
 
 ## ✍️ Descrição
-Exemplificação de HTML5 | Accordion
+Exemplificação de Flexbox
 
 
 ## 📥 Clone/Baixe
